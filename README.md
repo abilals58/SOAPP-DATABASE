@@ -3,5 +3,5 @@ This repository contains the SOAPP (Social Media Applications Database) which is
 
 Entity-Relationship Diagram of SOAPP
 
-![](SOAPP-DATABASE/Entity-Relationship-Diagram.png)
+![](diagram/Entity-Relationship-Diagram.png)
 
